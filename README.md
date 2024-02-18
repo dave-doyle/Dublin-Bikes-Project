@@ -24,12 +24,20 @@ The web application is hosted on an Amazon EC2 instance, with scraped data store
 
 ## Architecture
 
+![Example Image](https://github.com/dave-doyle/Dublin-Bikes-Project/blob/def58a3ad15cdcaf8506928ed1ab93e283c68831/static/dublinbikes_arch.png)
+
 The single-page application features:
 
 - A left-hand search bar and journey planner for easy navigation.
 - A responsive map displaying bike stations with markers and allowing users to zoom for detailed views.
 - A header with the application logo and a weather widget for current weather information.
 - Graphs displaying historical and predictive bike occupancy data below the map.
+
+![Example Image](https://github.com/dave-doyle/Dublin-Bikes-Project/blob/def58a3ad15cdcaf8506928ed1ab93e283c68831/static/overview_1.png)
+
+![Example Image](https://github.com/dave-doyle/Dublin-Bikes-Project/blob/def58a3ad15cdcaf8506928ed1ab93e283c68831/static/overview_2.png)
+
+
 
 ## Key Features
 
@@ -40,3 +48,8 @@ The single-page application features:
 - **Machine Learning-Powered Predictions:** Machine learning models predict bike occupancy, empowering users to make informed decisions and promoting efficient bike-sharing practices.
 
 - **User-Based Geolocation:** Displays the nearest bike station to the user's location on the map, enhancing accessibility and user experience.
+
+![Example Image](https://github.com/dave-doyle/Dublin-Bikes-Project/blob/def58a3ad15cdcaf8506928ed1ab93e283c68831/static/chart.png)
+
+
+
